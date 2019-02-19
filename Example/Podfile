@@ -1,12 +1,9 @@
 use_frameworks!
 
-target 'SwiftStringPatternParser_Example' do
-  pod 'SwiftStringPatternParser', :path => '../'
+target 'StringPatternFormatter_Example' do
+  pod 'StringPatternFormatter', :path => '../'
 
-  target 'SwiftStringPatternParser_Tests' do
+  target 'StringPatternFormatter_Tests' do
     inherit! :search_paths
-
-    pod 'Quick', '~> 1.2.0'
-    pod 'Nimble', '~> 7.0.2'
   end
 end

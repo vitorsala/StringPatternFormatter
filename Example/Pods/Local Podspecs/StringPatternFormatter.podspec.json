@@ -1,0 +1,22 @@
+{
+  "name": "StringPatternFormatter",
+  "version": "0.1.0",
+  "summary": "A short description of StringPatternFormatter.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Vitor Kawai Sala/StringPatternFormatter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Vitor Kawai Sala": "vitorsala@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Vitor Kawai Sala/StringPatternFormatter.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "StringPatternFormatter/Classes/**/*"
+}

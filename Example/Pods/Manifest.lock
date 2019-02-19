@@ -1,0 +1,16 @@
+PODS:
+  - StringPatternFormatter (0.1.0)
+
+DEPENDENCIES:
+  - StringPatternFormatter (from `../`)
+
+EXTERNAL SOURCES:
+  StringPatternFormatter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  StringPatternFormatter: 680899a5089d5e5ea31d7e82354530e657d2ff64
+
+PODFILE CHECKSUM: da3f3797424cb344e5948cd2fc0e1abd5b79475f
+
+COCOAPODS: 1.5.3

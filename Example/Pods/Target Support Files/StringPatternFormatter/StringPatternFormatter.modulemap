@@ -1,0 +1,6 @@
+framework module StringPatternFormatter {
+  umbrella header "StringPatternFormatter-umbrella.h"
+
+  export *
+  module * { export * }
+}
